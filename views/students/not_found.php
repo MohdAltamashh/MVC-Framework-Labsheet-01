@@ -1,0 +1,1 @@
+<section class="panel"><h1>Student not found</h1><p>The requested student record does not exist.</p><a class="text-link" href="<?= BASE_URL ?>/index.php?route=students">Return to student list</a></section>
